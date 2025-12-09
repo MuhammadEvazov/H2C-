@@ -1,0 +1,14 @@
+G:\C# projects\H2\obj\Debug\net9.0\H2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# projects\H2\obj\Debug\net9.0\H2.AssemblyInfoInputs.cache
+G:\C# projects\H2\obj\Debug\net9.0\H2.AssemblyInfo.cs
+G:\C# projects\H2\obj\Debug\net9.0\H2.csproj.CoreCompileInputs.cache
+G:\C# projects\H2\bin\Debug\net9.0\H2.exe
+G:\C# projects\H2\bin\Debug\net9.0\H2.deps.json
+G:\C# projects\H2\bin\Debug\net9.0\H2.runtimeconfig.json
+G:\C# projects\H2\bin\Debug\net9.0\H2.dll
+G:\C# projects\H2\bin\Debug\net9.0\H2.pdb
+G:\C# projects\H2\obj\Debug\net9.0\H2.dll
+G:\C# projects\H2\obj\Debug\net9.0\refint\H2.dll
+G:\C# projects\H2\obj\Debug\net9.0\H2.pdb
+G:\C# projects\H2\obj\Debug\net9.0\H2.genruntimeconfig.cache
+G:\C# projects\H2\obj\Debug\net9.0\ref\H2.dll
