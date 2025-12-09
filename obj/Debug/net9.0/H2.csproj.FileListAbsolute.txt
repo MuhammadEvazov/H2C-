@@ -12,3 +12,4 @@ G:\C# projects\H2\obj\Debug\net9.0\refint\H2.dll
 G:\C# projects\H2\obj\Debug\net9.0\H2.pdb
 G:\C# projects\H2\obj\Debug\net9.0\H2.genruntimeconfig.cache
 G:\C# projects\H2\obj\Debug\net9.0\ref\H2.dll
+G:\C# projects\H2\obj\Debug\net9.0\H2.sourcelink.json
